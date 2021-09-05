@@ -12,3 +12,10 @@ C:\Users\USER\Source\Repos\ZakharovVN\snake\snake\snake\obj\Debug\snake.csproj.A
 C:\Users\USER\Source\Repos\ZakharovVN\snake\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
 C:\Users\USER\Source\Repos\ZakharovVN\snake\snake\snake\obj\Debug\snake.exe
 C:\Users\USER\Source\Repos\ZakharovVN\snake\snake\snake\obj\Debug\snake.pdb
+C:\Users\Владимир\Source\Repos\snake\snake\snake\bin\Debug\snake.exe.config
+C:\Users\Владимир\Source\Repos\snake\snake\snake\bin\Debug\snake.exe
+C:\Users\Владимир\Source\Repos\snake\snake\snake\bin\Debug\snake.pdb
+C:\Users\Владимир\Source\Repos\snake\snake\snake\obj\Debug\snake.csproj.AssemblyReference.cache
+C:\Users\Владимир\Source\Repos\snake\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Source\Repos\snake\snake\snake\obj\Debug\snake.exe
+C:\Users\Владимир\Source\Repos\snake\snake\snake\obj\Debug\snake.pdb
