@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace snake
 {
+<<<<<<< HEAD
 	class FoodCreator
 	{
 		int mapWidht;
@@ -29,3 +30,9 @@ namespace snake
 		}
 	}
 }
+=======
+    class FoodCreator
+    {
+    }
+}
+>>>>>>> master
